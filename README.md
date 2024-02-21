@@ -1,6 +1,3 @@
-# prework-study-guide
-The repository for the prework for the bootcamp.
-
 # Prework Study Guide Webpage
 
 ## Description
